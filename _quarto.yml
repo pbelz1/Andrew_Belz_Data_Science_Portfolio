@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Andrew Belz- Data Science Portfolio"
+  back-to-top-navigation: true
+  repo-url: "https://github.com/pbelz1"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +16,9 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
