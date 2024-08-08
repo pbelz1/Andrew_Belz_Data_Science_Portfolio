@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Portfolio!",
+    "section": "",
+    "text": "Hello! My name is Andrew Belz. I am a student at BYU-Idaho studying data science. On this website, you will find up-to-date information on projects I have accomplished, inside and outside of the classroom.\n\n\n\nAbout Me My Resume Projects\n\n\n\n\n\n\nGitHub LinkedIn andrewbelzjr@gmail.com (805)624-4436"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Welcome to my Portfolio!",
+    "section": "",
+    "text": "About Me My Resume Projects"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Welcome to my Portfolio!",
+    "section": "",
+    "text": "GitHub LinkedIn andrewbelzjr@gmail.com (805)624-4436"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "ANDREW BELZ",
+    "section": "",
+    "text": "ANDREW BELZ\n\nGitHub LinkedIn andrewbelzjr@gmail.com (805) 624-4436\n\n\nPassionate aspiring data scientist always looking for new challenges. Technically adept, with both mathematical and programming skills in statistics, Python, R, and SQL. Flexible and hard-working team player.\n\n\nProject Experience Highlights\n\n\nSocioeconomic Inequality Statistical Analysis\n\n\nAnalysis Project using R: Uncovered trends in poverty and race in relation to crime rates using official US Census data. Showcased abilities in hypothesis testing, linear regression, ANOVA, model validation, API data extraction, exploratory data analysis, and data visualization (ggplot).\n\nStock Price Tracking Application\n\nPython Application: implemented and automated ETL process to retrieve data from Yahoo Finance API via yfinance python module, appropriately transforming resulting data with pandas, and loading resulting data frame into a Plotly Dash app graphically and tabularly: Showcase abilities with Python, Dash, Plotly, Pandas, yfinance, HTML, and CSS.\n\n\n\nEducation\nBachelor of Science in Data Science - Brigham Young University-Idaho\n4.0 GPA\nRelevant Coursework: Data Science Programming, Intermediate Statistics, Introduction to Databases\n\n\n\nWork Experience\n\nSolar Technician\nMitchell Security, Inc., Bakersfield, CA\nAugust 2022 - August 2023\n\nInstalled residential solar energy systems in a team of 6\nImplemented and utilized monitoring software for energy systems to diagnose and troubleshoot performance\nCommunicated with clients to deliver focused solutions\nAdhered to strict build protocol and regulations to promote strict quality control\n\n\n\nUniversity Exam Proctor\nBYU-Idaho, Rexburg, ID\nMay 2024 - Present\n\nAdminister and manage tests of dozens of students daily\nComply with standard operating procedures to protect testing integrity and accurate file management\nInteract with database front end interface to manage student and test information\n\n\n\n\n\nSkills\nPython: Pandas, NumPy, Scikit-learn, Plotly Express | R: ggplot, mosaic, tidyverse, R-markdown | SQL: SQLite, MySQL, ERDs | Hypothesis mesting | Statistical modeling | Data visualization | Data wrangling | Effective communication | Team collaboration | Problem-solving | Quality control\n\n\nClick here to download this resume"
+  },
+  {
+    "objectID": "resume.html#project-experience-highlights",
+    "href": "resume.html#project-experience-highlights",
+    "title": "ANDREW BELZ",
+    "section": "",
+    "text": "Analysis Project using R: Uncovered trends in poverty and race in relation to crime rates using official US Census data. Showcased abilities in hypothesis testing, linear regression, ANOVA, model validation, API data extraction, exploratory data analysis, and data visualization (ggplot)."
+  },
+  {
+    "objectID": "resume.html#click-to-download-resume",
+    "href": "resume.html#click-to-download-resume",
+    "title": "ANDREW BELZ",
+    "section": "",
+    "text": "GitHub LinkedIn andrewbelzjr@gmail.com (805) 624-4436\n\n\nPassionate aspiring data scientist always looking for new challenges. Technically adept, with both mathematical and programming skills in statistics, Python, R, and SQL. Flexible and hard-working team player.\n\n\n\n\n\n\nAnalysis Project using R: Uncovered trends in poverty and race in relation to crime rates using official US Census data. Showcased abilities in hypothesis testing, linear regression, ANOVA, model validation, API data extraction, exploratory data analysis, and data visualization (ggplot).\n\nPython Application: implemented and automated ETL process to retrieve data from Yahoo Finance API via yfinance python module, appropriately transforming resulting data with pandas, and loading resulting data frame into a Plotly Dash app graphically and tabularly: Showcase abilities with Python, Dash, Plotly, Pandas, yfinance, HTML, and CSS."
+  }
+]

@@ -1,0 +1,27 @@
+---
+---
+
+# Welcome to my Portfolio!
+
+<img src='images/profile_picture.jpg' style="width: 75%; height: auto;">
+
+Hello! My name is Andrew Belz. I am a student at BYU-Idaho studying data science. On this website, you will find up-to-date information on projects I have accomplished, inside and outside of the classroom.
+
+## Quick Links
+
+<div style="display: inline;">
+  <a href="about.qmd" class='landing-page-links'>About Me</a>
+  <a href="project_files\resume_draft_2.html" class='landing-page-links'>My Resume</a>
+  <a href="projects.qmd" class='landing-page-links'>Projects</a>
+</div>
+
+<br>
+
+## Contact Me
+
+<div class='contact-me'>
+<a href="https://github.com/pbelz1" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/andrewbelz/" target="_blank">LinkedIn</a>
+<a href='mailto:andrewbelzjr@gmail.com' target='_blank'>andrewbelzjr@gmail.com</a>
+<a href='tel:+18056244436' target='_blank'>(805)624-4436</a>
+</div>
